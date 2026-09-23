@@ -1,0 +1,6 @@
+{
+  "name": "API Playground",
+  "description": "Mobile-native REST API client with request builder, collections, environments, response viewer, and history.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">API Playground</string>
+    <string name="tab_request">So\'rov</string>
+    <string name="tab_collections">Kolleksiyalar</string>
+    <string name="tab_environments">Muhitlar</string>
+    <string name="tab_history">Tarix</string>
+    <string name="tab_status">Holat</string>
+    <string name="send">Yuborish</string>
+    <string name="save">Saqlash</string>
+    <string name="import_postman">Postman import</string>
+    <string name="export_postman">Postman eksport</string>
+    <string name="dark_mode">Tungi rejim</string>
+    <string name="light_mode">Kunduzgi rejim</string>
+    <string name="language">Til</string>
+</resources>

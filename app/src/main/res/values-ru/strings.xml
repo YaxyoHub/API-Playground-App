@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">API Playground</string>
+    <string name="tab_request">Запрос</string>
+    <string name="tab_collections">Коллекции</string>
+    <string name="tab_environments">Окружения</string>
+    <string name="tab_history">История</string>
+    <string name="tab_status">Статус</string>
+    <string name="send">Отправить</string>
+    <string name="save">Сохранить</string>
+    <string name="import_postman">Импорт Postman</string>
+    <string name="export_postman">Экспорт Postman</string>
+    <string name="dark_mode">Темная тема</string>
+    <string name="light_mode">Светлая тема</string>
+    <string name="language">Язык</string>
+</resources>

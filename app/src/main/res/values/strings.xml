@@ -1,0 +1,15 @@
+<resources>
+    <string name="app_name">API Playground</string>
+    <string name="tab_request">Request</string>
+    <string name="tab_collections">Collections</string>
+    <string name="tab_environments">Environments</string>
+    <string name="tab_history">History</string>
+    <string name="tab_status">Status</string>
+    <string name="send">Send</string>
+    <string name="save">Save</string>
+    <string name="import_postman">Import Postman</string>
+    <string name="export_postman">Export Postman</string>
+    <string name="dark_mode">Dark Mode</string>
+    <string name="light_mode">Light Mode</string>
+    <string name="language">Language</string>
+</resources>

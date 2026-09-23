@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:aapt="http://schemas.android.com/aapt"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+
+    <!-- Card Background within 66dp safe zone (21 to 87) -->
+    <path
+        android:pathData="M30,24 L78,24 A8,8 0 0,1 86,32 L86,76 A8,8 0 0,1 78,84 L30,84 A8,8 0 0,1 22,76 L22,32 A8,8 0 0,1 30,24 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="22"
+                android:startY="24"
+                android:endX="86"
+                android:endY="84"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#1E293B" />
+                <item android:offset="1.0" android:color="#0F172A" />
+            </gradient>
+        </aapt:attr>
+    </path>
+
+    <!-- Top header line of terminal card -->
+    <path
+        android:pathData="M22,35 L86,35"
+        android:strokeWidth="1.5"
+        android:strokeColor="#334155" />
+
+    <!-- Terminal dots: green, cyan, amber -->
+    <path
+        android:pathData="M28,29.5 A1.5,1.5 0 1,1 28,29.49 Z"
+        android:fillColor="#10B981" />
+    <path
+        android:pathData="M33,29.5 A1.5,1.5 0 1,1 33,29.49 Z"
+        android:fillColor="#06B6D4" />
+    <path
+        android:pathData="M38,29.5 A1.5,1.5 0 1,1 38,29.49 Z"
+        android:fillColor="#F59E0B" />
+
+    <!-- Left Brace { in Cyan -->
+    <path
+        android:pathData="M40,43 C36,43 35,46 35,51 C35,55 33,57 30,57 C33,57 35,59 35,63 C35,68 36,71 40,71"
+        android:strokeWidth="3.2"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Right Brace } in Cyan -->
+    <path
+        android:pathData="M68,43 C72,43 73,46 73,51 C73,55 75,57 78,57 C75,57 73,59 73,63 C73,68 72,71 68,71"
+        android:strokeWidth="3.2"
+        android:strokeColor="#38BDF8"
+        android:strokeLineCap="round"
+        android:strokeLineJoin="round" />
+
+    <!-- Send Lightning Bolt in Vibrant Violet / Cyan -->
+    <path
+        android:pathData="M56,43 L48,56 L53,56 L51,71 L61,54 L55,54 Z">
+        <aapt:attr name="android:fillColor">
+            <gradient
+                android:startX="48"
+                android:startY="43"
+                android:endX="61"
+                android:endY="71"
+                android:type="linear">
+                <item android:offset="0.0" android:color="#67E8F9" />
+                <item android:offset="0.5" android:color="#A855F7" />
+                <item android:offset="1.0" android:color="#EC4899" />
+            </gradient>
+        </aapt:attr>
+    </path>
+</vector>
